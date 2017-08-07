@@ -1,8 +1,1 @@
-hello
-anser
-<<<<<<< HEAD
-branch
-||||||| merged common ancestors
-=======
-branch 2
->>>>>>> anser
+master mode
